@@ -21,8 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b4ae5f9a-7279-492b-b155-a1e7ebe8a84e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/suggestions.html" beforeDir="false" afterPath="$PROJECT_DIR$/suggestions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vote.html" beforeDir="false" afterPath="$PROJECT_DIR$/vote.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +38,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -64,6 +65,7 @@
       <workItem from="1599907626479" duration="211000" />
       <workItem from="1600270440066" duration="310000" />
       <workItem from="1600271051897" duration="2277000" />
+      <workItem from="1615112843663" duration="17000" />
     </task>
     <servers />
   </component>
@@ -80,6 +82,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="751" y="408" key="#Chrome_Settings" timestamp="1598883464774">
